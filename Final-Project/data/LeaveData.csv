@@ -1,0 +1,11 @@
+Person p,startDate,endDate,reason,supervisor,Status
+nj,9/2/2017,9/4/2017,vaccation,mit,approved
+nj,10/3/2017,10/3/2017,sick,mit,approved
+nj,10/23/2017,10/27/2017,vaccation,mit,approved
+nj,11/21/2017,11/24/2017,vaccation,mit,approved
+nj,9/18/2017,9/19/2017,vaccation,mit,approved
+nj,8/30/2017,8/31/2017,sick,mit,approved
+ank,8/1/2017,8/3/2017,sick,mit,approved
+ank,8/14/2017,8/18/2017,sick,mit,approved
+ank,10/5/2017,10/6/2017,sick,mit,approved
+ank,10/15/2017,10/23/2017,vaccation,mit,approved
